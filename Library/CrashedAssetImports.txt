@@ -1,1 +1,0 @@
-Assets/sprites/sprite_sheet.png
